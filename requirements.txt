@@ -1,0 +1,10 @@
+asgiref
+autopep8
+Django
+pycodestyle
+pytz
+sqlparse
+Unipath
+dj-database-url
+python-decouple
+gunicorn
