@@ -1,4 +1,4 @@
-# [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU)
+# [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
 
@@ -58,6 +58,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 - [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
 
 <br />
 
@@ -68,4 +69,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-[Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - provided by **AppSeed**
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - provided by **AppSeed**
