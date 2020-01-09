@@ -65,8 +65,6 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-<br />
-
 ## Credits & Links
 
 - [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
