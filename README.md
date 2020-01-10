@@ -10,7 +10,7 @@
 
 <br />
 
-![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-intro.gif)
+![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
 
@@ -54,7 +54,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 | [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [Django Dashboard Dashkit](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) |
 | --- | --- | --- |
-| [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-intro.gif)](https://appseed.us/admin-dashboards/django-dashboard-black-pro)  | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-intro.gif)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [![Django Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-intro.gif)](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
+| [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro)  | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [![Django Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
 
 <br />
 
