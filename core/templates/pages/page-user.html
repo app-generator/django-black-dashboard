@@ -104,11 +104,11 @@
             <a href="javascript:void(0)">
               <img class="avatar" src="/static/assets/img/emilyz.jpg" alt="...">
               <h5 class="title">
-                {{ current_user.username }}
+                {{ request.user.username }}
               </h5>
             </a>
             <p class="description">
-              {{ current_user.email }}
+              {{ request.user.email }}
             </p>
           </div>
         </p>
