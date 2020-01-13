@@ -1,4 +1,4 @@
-# [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU)
+# [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
 
@@ -10,7 +10,7 @@
 
 <br />
 
-![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-intro.gif)
+![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
 
@@ -48,9 +48,20 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-## Docker execution
+## Want more? Go PRO!
 
-@WIP
+<br />
+
+| [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [Django Dashboard Dashkit](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) |
+| --- | --- | --- |
+| [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro)  | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [![Django Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
+
+<br />
+
+## Support
+
+- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
 
 <br />
 
@@ -58,6 +69,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 - [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
 
 <br />
 
@@ -68,4 +80,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-[Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - provided by **AppSeed**
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - provided by **AppSeed**
