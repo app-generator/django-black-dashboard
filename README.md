@@ -10,8 +10,6 @@
 
 <br />
 
-### [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
-
 > Enjoy this design? Check out the **PRO version**: **[Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
 
 <br />
