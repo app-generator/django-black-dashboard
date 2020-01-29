@@ -7,6 +7,7 @@ Copyright (c) 2019 - present AppSeed.us
 import os
 from decouple import config
 from unipath import Path
+import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -16,7 +17,7 @@ PROJECT_DIR = Path(__file__).parent
 SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [ config('PROD_HOST') ]
 
@@ -33,7 +34,6 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -108,17 +108,10 @@ USE_L10N = True
 
 USE_TZ = True
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
 # Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/3.0/howto/static-files/
+# https://docs.djangoproject.com/en/2.0/howto/static-files/
 
-# STATIC_ROOT production load 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATIC_URL  = '/static/'
+STATIC_URL = "/static/"
 
-# Extra places for collectstatic to find static files.
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "staticfiles"),
-    os.path.join(BASE_DIR, "core/static"),
-)
+django_heroku.settings(locals())
