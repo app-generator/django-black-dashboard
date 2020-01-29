@@ -1,6 +1,8 @@
 # [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
+**Open-Source Admin Dashboard** coded in **[Django Framework](https://www.djangoproject.com/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+### Dashboard Features:
 
 - SQLite, Django native ORM
 - Modular design
@@ -8,6 +10,17 @@
 - Forms validation
 - UI Kit: **Black Dashboard** provided by **Creative-Tim**
 
+<br />
+
+## Want more? Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) |
+| --- | --- | --- |
+| [![Django Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-material-pro)  | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [![Django Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
+
+<br />
 <br />
 
 ![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
@@ -48,16 +61,6 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-## Want more? Go PRO!
-
-<br />
-
-| [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [Django Dashboard Dashkit](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) |
-| --- | --- | --- |
-| [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro)  | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) | [![Django Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
-
-<br />
-
 ## Support
 
 - Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
@@ -80,4 +83,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - provided by **AppSeed**
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
