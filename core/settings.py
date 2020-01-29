@@ -118,4 +118,5 @@ STATIC_ROOT = PROJECT_DIR.parent.child('staticfiles')
 # STATIC_ROOT development load 
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "core/static"),
+    STATIC_ROOT,
 )
