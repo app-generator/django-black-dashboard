@@ -16,7 +16,7 @@ PROJECT_DIR = Path(__file__).parent
 SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False #config('DEBUG')
+DEBUG = False
 
 ALLOWED_HOSTS = [ config('PROD_HOST') ]
 
@@ -116,5 +116,6 @@ STATIC_URL  = '/static/'
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, "staticfiles"),
+    os.path.join(BASE_DIR, "core/static"),
 )
