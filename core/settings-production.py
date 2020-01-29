@@ -13,12 +13,12 @@ BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_DIR = Path(__file__).parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('7yhGbvfdcDDSSS---Incde')
+SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG')
+DEBUG = False #config('DEBUG')
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ config('PROD_HOST') ]
 
 # Application definition
 
@@ -113,7 +113,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # STATIC_ROOT production load 
-STATIC_ROOT = PROJECT_DIR.child('core').child('staticfiles')
+STATIC_ROOT = BASE_DIR.child('staticfiles')
 
 # STATIC_ROOT development load 
 STATICFILES_DIRS = (
