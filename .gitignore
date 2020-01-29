@@ -20,5 +20,3 @@ venv
 
 # javascript
 package-lock.json
-
-staticfiles
