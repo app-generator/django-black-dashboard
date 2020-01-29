@@ -19,7 +19,7 @@ SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ config('PROD_HOST') ]
+ALLOWED_HOSTS = []
 
 # Application definition
 
@@ -113,5 +113,10 @@ USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = "/static/"
+
+# STATIC_ROOT development load 
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, "core/static"),
+)
 
 django_heroku.settings(locals())
