@@ -113,7 +113,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # STATIC_ROOT production load 
-STATIC_ROOT = BASE_DIR.child('staticfiles')
+STATIC_ROOT = PROJECT_DIR.child('core').child('staticfiles')
 
 # STATIC_ROOT development load 
 STATICFILES_DIRS = (
