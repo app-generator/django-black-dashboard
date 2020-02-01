@@ -18,9 +18,9 @@ PROJECT_DIR = Path(__file__).parent
 SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-dashboard-black.herokuapp.com']
 
 # Application definition
 
@@ -118,7 +118,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static")
 ]
 
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 prod_db  =  dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(prod_db)
