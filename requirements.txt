@@ -10,5 +10,6 @@ python-decouple
 gunicorn
 django-heroku
 dj-database-url
+psycopg2
 psycopg2-binary
 whitenoise
