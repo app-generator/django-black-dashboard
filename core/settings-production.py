@@ -22,7 +22,7 @@ SECRET_KEY = '7yhGbvfdcDDSsjngFcd2325%656sS-Incde' #config('SECRET_KEY')
 # ALLOWED_HOSTS = ['django-dashboard-black.herokuapp.com']
 
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-dashboard-black.herokuapp.com']
 
 # Application definition
 
