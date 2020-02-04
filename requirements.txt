@@ -1,6 +1,6 @@
 asgiref
 autopep8
-django
+Django
 pycodestyle
 pytz
 sqlparse
@@ -8,8 +8,3 @@ Unipath
 dj-database-url
 python-decouple
 gunicorn
-django-heroku
-dj-database-url
-psycopg2
-psycopg2-binary
-whitenoise
