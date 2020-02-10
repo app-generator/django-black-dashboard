@@ -1,5 +1,9 @@
 #!/usr/bin/env python
-"""Django's command-line utility for administrative tasks."""
+"""
+License: MIT
+Copyright (c) 2019 - present AppSeed.us
+"""
+
 import os
 import sys
 

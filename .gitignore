@@ -20,3 +20,6 @@ venv
 
 # javascript
 package-lock.json
+
+staticfiles/*
+!staticfiles/.gitkeep 

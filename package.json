@@ -1,6 +1,6 @@
 {
   "name": "django-dashboard-black",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple UI-Ready Django boilerplate.",
   "scripts": {
     "lint": "eslint ."

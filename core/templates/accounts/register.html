@@ -22,10 +22,18 @@
                       {% if msg %}
                         <span class="text-danger">{{ msg }}</span>
                       {% else %}
-                        Complete your credentials
+                        Add your credentials or <a href={% url 'login' %} >authenticate</a> with an existing account.
                       {% endif %}  
                   </h6>
                 </div>
+
+              {% if success %}
+
+                <p class="text-center">
+                  Please <a href={% url 'login' %}>authenticate</a> using the new account.
+                </p>  
+
+              {% else %}
 
                 <div class="card-body">
 
@@ -75,6 +83,8 @@
                   &nbsp; &nbsp;
                   Have an account? <a href="{% url 'login' %}" class="text-primary">Login</a>
                 </div>
+
+              {% endif %} 
 
               </form>
 
