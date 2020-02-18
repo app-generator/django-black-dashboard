@@ -21,6 +21,7 @@
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - product page 
 - [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
+- [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 
 <br />
 
@@ -183,7 +184,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ## Credits
 
-- [Django Dashboard Black](https://www.youtube.com/watch?v=RJkCTn55ywo) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
 
