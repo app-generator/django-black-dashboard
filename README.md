@@ -20,7 +20,7 @@
 ### Web App Links
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - product page 
-- [Django Dashboard Black](https://django-dashboard-black.herokuapp.com/) - LIVE Demo
+- [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
 
 <br />
 
