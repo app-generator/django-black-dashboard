@@ -1,14 +1,17 @@
 # [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
-**Open-Source Admin Dashboard** coded in **[Django Framework](https://www.djangoproject.com/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ### Dashboard Features
 
-- SQLite, Django native ORM
-- Modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- UI Kit: **Black Dashboard** (Free Version) by **Creative-Tim**
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- UI Kit: **[Black Dashboard](https://django-dashboard-black.appseed.us/login/)** (Free version) provided by **Creative-Tim**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 ### Deployment Scripts
 
@@ -175,23 +178,25 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Support
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
+## Credits & Links
 
 <br />
 
-## Credits
+### What is [Django](https://www.palletsprojects.com/p/flask/)
 
-- [Django Framework](https://www.djangoproject.com/) - Offcial website
-- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
+[Django](https://www.palletsprojects.com/p/flask/) is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.
 
 <br />
 
-## License
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-@MIT
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Black Dashboard](https://www.creative-tim.com/product/black-dashboard)
+
+Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 <br />
 
