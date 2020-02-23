@@ -20,8 +20,8 @@
 ### Web App Links
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - product page 
+- [Django Dashboard Black](https://docs.appseed.us/admin-dashboards/django-dashboard-black/) - Documentation
 - [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 
 <br />
 
