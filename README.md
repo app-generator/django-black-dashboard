@@ -11,7 +11,7 @@
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**), Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- UI Kit: **[Black Dashboard](https://django-dashboard-black.appseed.us/login/)** (Free version) provided by **Creative-Tim**
+- UI Kit: **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard?ref=appseed)** (Free version) provided by **Creative-Tim**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
