@@ -8,6 +8,11 @@
 
 This product is **built based on community feedback**. Feel free (anonymously) to **[suggest/vote features](https://appseed.nolt.io/4)**. For more information, please access the [Facebook](https://www.facebook.com/webappseed/) page or chat with us on [Discord](https://discord.gg/fZC6hup).
 
+>  Related Links
+
+- [Django Admin Dashboards](https://dev.to/sm0ke/django-admin-dashboards-open-source-and-free-1o80) - published on Dev.to
+- [Django Dashboard](https://dev.to/sm0ke/django-dashboard-learn-by-coding-437l) - Learn by Coding - a comprehensive tutorial published on Dev
+
 <br />
 
 ## Dashboard Features
