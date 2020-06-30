@@ -32,7 +32,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Django Dashboard Black - Open-Source Web App coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
+![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
 
 <br />
 
