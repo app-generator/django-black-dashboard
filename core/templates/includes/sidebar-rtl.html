@@ -12,64 +12,62 @@
           </a>
         </div>
 
-        {% if user.is_authenticated %}
         <ul class="nav">
-          <li class="active ">
+          <li class="{% if 'index' in segment %} active {% endif %}">
             <a href="/">
               <i class="tim-icons icon-chart-pie-36"></i>
               <p>لوحة القيادة</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'icons' in segment %} active {% endif %}">
             <a href="/ui-icons.html">
               <i class="tim-icons icon-atom"></i>
               <p>الرموز</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'maps' in segment %} active {% endif %}">
             <a href="/ui-maps.html">
               <i class="tim-icons icon-pin"></i>
               <p>خرائط</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'notifications' in segment %} active {% endif %}">
             <a href="/ui-notifications.html">
               <i class="tim-icons icon-bell-55"></i>
               <p>إخطارات</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'page-user' in segment %} active {% endif %}">
             <a href="/page-user.html">
               <i class="tim-icons icon-single-02"></i>
               <p>ملف تعريفي للمستخدم</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'tables' in segment %} active {% endif %}">
             <a href="/ui-tables.html">
               <i class="tim-icons icon-puzzle-10"></i>
               <p>قائمة الجدول</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'typography' in segment %} active {% endif %}">
             <a href="/ui-typography.html">
               <i class="tim-icons icon-align-center"></i>
               <p>طباعة</p>
             </a>
           </li>
-          <li>
+          <li class="{% if 'rtl-support' in segment %} active {% endif %}">
             <a href="/page-rtl-support.html">
               <i class="tim-icons icon-world"></i>
               <p>دعم RTL</p>
             </a>
           </li>
-          <li class="active-pro">
-            <a href="https://appseed.us/admin-dashboards/django-dashboard-black">
-              <i class="tim-icons icon-spaceship"></i>
-              <p>See product</p>
+          <li>
+            <a href="{% url 'logout' %}" >
+              <i class="tim-icons icon-user-run"></i>
+              <p>Logout</p>
             </a>
-          </li>
+          </li>          
         </ul>
-        {% endif %}
         
       </div>
     </div>
