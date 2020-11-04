@@ -1,4 +1,4 @@
-# [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)
+# [Django Dashboard](https://appseed.us/admin-dashboards/django) Black Design
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,8 +14,8 @@
 > Links
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page 
-- [Django Dashboard Black - Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
 - [Django Dashboard Black - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-black/) - Documentation
+- [Django Admin Black](https://github.com/app-generator/django-admin-black) - Free template for Django Admin
 
 <br />
 
@@ -159,4 +159,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-**[Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](https://appseed.us/admin-dashboards/django) Black Design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
