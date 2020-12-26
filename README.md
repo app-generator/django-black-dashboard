@@ -165,4 +165,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-[Django Dashboard](https://appseed.us/admin-dashboards/django?ref=gh) Black Design - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](https://appseed.us/admin-dashboards/django?ref=gh) Black Design - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
