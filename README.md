@@ -19,7 +19,7 @@ Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of
 > Links
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page 
-- [Django Dashboard Black Demo](https://django-black-dashboard.appseed-srv1.com/login/) - LIVE App
+- [Django Dashboard Black Demo](https://django-black-dashboard.appseed-srv1.com/) - LIVE App
 - [Django Dashboard Black Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-black/) - Documentation
 
 <br />
