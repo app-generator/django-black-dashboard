@@ -19,8 +19,6 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django-dash
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - product page 
 - [Django Dashboard Black Demo](https://django-black-dashboard.appseed-srv1.com/) - LIVE App
 
-<br />
-
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
