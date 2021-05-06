@@ -18,7 +18,7 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django-dash
 
 - [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - product page 
 - [Django Dashboard Black](https://django-black-dashboard.appseed-srv1.com/) - LIVE deployment
-- [Django Dashboard Black](https://django-dashboard-black.appseed.us/) - product documentation
+- [Django Dashboard Black](https://docs.appseed.us/products/django-dashboards/black-dashboard) - product documentation
 
 <br />
 
