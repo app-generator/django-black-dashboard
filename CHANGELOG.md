@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.3] 2021-09-17
+### Improvements
+
+- Bump Django Codebase to [v2.0.4](https://github.com/app-generator/boilerplate-code-django-dashboard/releases)
+- Codebase update
+  - `assets` & `templates` moved to `apps` folder
+  - `apps/base` renamed to `apps/home`
+
 ## [1.0.2] 2021-09-07
 ### Improvements & Fixes
 
