@@ -8,7 +8,7 @@
   - Django==4.0.1
 - Settings update for Django 4.x
   - `New Parameter`: CSRF_TRUSTED_ORIGINS
-    - [Origin header checking isn’t performed in older versions](https://docs.djangoproject.com/en/4.0/ref/settings/#csrf-trusted-origins)  
+    - [Origin header checking isn`t performed in older versions](https://docs.djangoproject.com/en/4.0/ref/settings/#csrf-trusted-origins)  
 
 ## [1.0.3] 2021-09-17
 ### Improvements
