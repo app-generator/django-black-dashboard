@@ -29,8 +29,8 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django)** g
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/django-dashboard-black.git
-$ cd django-dashboard-black
+$ git clone https://github.com/app-generator/django-black-dashboard.git
+$ cd django-black-dashboard
 ```
 
 > Start the app in Docker
@@ -51,8 +51,8 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-dashboard-black.git
-$ cd django-dashboard-black
+$ git clone https://github.com/app-generator/django-black-dashboard.git
+$ cd django-black-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
