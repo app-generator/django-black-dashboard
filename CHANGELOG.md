@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.6] 2022-05-25
+### Improvements
+
+- Built with [Black Dashboard Generator](https://appseed.us/generator/black-dashboard/)
+  - Timestamp: `2022-05-25 10:28`
+- Added CDN/Static Server management
+  - `ASSETS_ROOT` env variable
+  
 ## [1.0.5] 2022-05-20
 ### Improvements
 
