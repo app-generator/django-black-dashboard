@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] 2022-09-09
+### Improvements
+
+- `Bump UI version`: v1.0.2
+  - `Persistent Dark-mode` via local storage
+
 ## [1.0.6] 2022-05-25
 ### Improvements
 
