@@ -1,7 +1,15 @@
 # Change Log
 
+## [1.0.8] 2023-02-26
+### Changes
+
+- Move to theme-based pattern
+  - [Django Black Admin](https://github.com/app-generator/django-admin-black) 
+- 🚀 `Deployment` 
+  - `CI/CD` flow via `Render`
+
 ## [1.0.7] 2022-09-09
-### Improvements
+### Changes
 
 - `Bump UI version`: v1.0.2
   - `Persistent Dark-mode` via local storage
