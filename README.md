@@ -1,4 +1,4 @@
-# [Django Black Dashboard](https://appseed.us/product/black-dashboar/django/)
+# [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/)
 
 **Django** starter styled with **[Black Dashboard](https://appseed.us/product/black-dashboard/django/)**, an open-source `Bootstrap` Design from [Creative-Tim](https://bit.ly/3fKQZaL).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
@@ -187,4 +187,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Black Dashboard](https://appseed.us/product/black-dashboar/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
