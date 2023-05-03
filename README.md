@@ -95,23 +95,19 @@ The project is coded using a simple and intuitive structure presented below:
 < PROJECT ROOT >
    |
    |-- core/                            
-   |    |-- settings.py                   # Project Configuration  
-   |    |-- urls.py                       # Project Routing
+   |    |-- settings.py    # Project Configuration  
+   |    |-- urls.py        # Project Routing
    |
    |-- home/
-   |    |-- views.py                      # APP Views 
-   |    |-- urls.py                       # APP Routing
-   |    |-- models.py                     # APP Models 
-   |    |-- tests.py                      # Tests  
-   |    |-- templates/                    # Theme Customisation 
-   |         |-- pages                    # 
-   |              |-- custom-dashboard.py # Custom Dashboard      
-   |     
+   |    |-- views.py       # APP Views 
+   |    |-- urls.py        # APP Routing
+   |    |-- models.py      # APP Models 
+   |    |-- tests.py       # Tests  
    |
-   |-- requirements.txt                   # Project Dependencies
+   |-- requirements.txt    # Project Dependencies
    |
-   |-- env.sample                         # ENV Configuration (default values)
-   |-- manage.py                          # Start the app - Django default start script
+   |-- env.sample          # ENV Configuration (default values)
+   |-- manage.py           # Start the app - Django default start script
    |
    |-- ************************************************************************
 ```
@@ -154,22 +150,49 @@ When the project requires customization, we need to copy the original file that 
 
 > For instance, if we want to **customize the dashboard.html** these are the steps:
 
-- ✅ `Step 1`: create the `templates` DIRECTORY inside the `home` app
+- ✅ `Step 1`: create the `templates` DIRECTORY inside the `ROOT` directory
 - ✅ `Step 2`: configure the project to use this new template directory
   - `core/settings.py` TEMPLATES section
-- ✅ `Step 3`: copy the `dashboard.html` from the original location (inside your ENV) and save it to the `home/templates` DIR
+- ✅ `Step 3`: copy the `dashboard.html` from the original location (inside your ENV) and save it to the `templates` DIR
   - Source PATH: `<YOUR_ENV>/LIB/admin_black_pro/pages/dashboard.html`
-  - Destination PATH: `<PROJECT_ROOT>home/templates/pages/dashboard.html`
+  - Destination PATH: `<PROJECT_ROOT>templates/pages/dashboard.html`
 
 > To speed up all these steps, the **codebase is already configured** (`Steps 1, and 2`) and a `custom dashboard` can be found at this location:
 
-`home/templates/pages/custom-dashboard.html` 
+`templates/pages/custom-dashboard.html` 
 
 By default, this file is unused because the `theme` expects `dashboard.html` (without the `custom-` prefix). 
 
 In order to use it, simply rename it to `dashboard.html`. Like this, the default version shipped in the library is ignored by Django. 
 
 In a similar way, all other files and components can be customized easily.
+
+<br />
+
+## Recompile SCSS  
+
+The SCSS/CSS files used to style the Ui are saved in the `static/assets` directory. 
+In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
+
+```bash
+$ yarn # install modules
+$ # # edit variables 
+$ vi static/assets/scss/black-dashboard/custom/_variables.scss 
+$ gulp # SCSS to CSS translation
+```
+
+The `_variables.scss` content defines the `primary` and `secondary` colors: 
+
+```scss
+$default:       #344675 !default; // EDIT for customization
+$primary:       #e14eca !default; // EDIT for customization
+$secondary:     #f4f5f7 !default; // EDIT for customization
+$success:       #00f2c3 !default; // EDIT for customization
+$info:          #1d8cf8 !default; // EDIT for customization
+$warning:       #ff8d72 !default; // EDIT for customization
+$danger:        #fd5d93 !default; // EDIT for customization
+$black:         #222a42 !default; // EDIT for customization
+```
 
 <br />
 
