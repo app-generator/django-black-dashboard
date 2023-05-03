@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.11] 2023-05-03
+### Changes
+
+- Bump UI Version
+- Added Local Templates and STATICs
+- Added Gulp Tooling for SCSS Compilation
+- Update DOCS (readme) 
+
 ## [1.0.10] 2023-02-27
 ### Changes
 
