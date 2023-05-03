@@ -13,3 +13,4 @@ env
 *.sqlite*
 
 .env
+node_modules
