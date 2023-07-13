@@ -150,8 +150,10 @@ form .aligned ul li {
 }
 input[type="text"],
 input[type="email"],
+input[type="number"],
 input[type="password"],
-select {
+select,
+textarea {
     display: block;
     width: 100%;
     padding: 0.5rem 20px;

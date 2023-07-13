@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.12] 2023-02-27
+### Changes
+
+- Bump UI version, [Django Black Admin](https://github.com/app-generator/django-admin-black) `v1.0.8`
+- Update local templates & Static
+
 ## [1.0.11] 2023-05-03
 ### Changes
 
