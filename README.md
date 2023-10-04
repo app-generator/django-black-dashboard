@@ -1,6 +1,6 @@
 # [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/)
 
-Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` on top of **Black Dashboard**, an open-source `Bootstrap` Design from Creative-Tim.
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` on top of **Black Dashboard**, an open-source `Bootstrap` Design from `Creative-Tim`.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
