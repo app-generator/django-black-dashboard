@@ -1,11 +1,11 @@
 # [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/)
 
-**Django** starter styled with **[Black Dashboard](https://appseed.us/product/black-dashboard/django/)**, an open-source `Bootstrap` Design from [Creative-Tim](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200).
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` on top of **Black Dashboard**, an open-source `Bootstrap` Design from [Creative-Tim](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
 - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
+- 🛒 **[Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/)** - `Premium Version` (more pages, components, and priority on support)
 
 <br /> 
 
