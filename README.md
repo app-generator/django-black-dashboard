@@ -12,7 +12,7 @@ The product is designed to deliver the best possible user experience with highly
 
 > `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-| Free Version                          | [PRO Version](https://appseed.us/product/datta-able-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
+| Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
 | ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**     | 
