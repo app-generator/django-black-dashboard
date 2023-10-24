@@ -5,23 +5,25 @@ The product is designed to deliver the best possible user experience with highly
 
 - 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
 - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- 🛒 **[Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/)** - `Premium Version` (more pages, components, and priority on support)
 
-<br /> 
+---
 
-## Features: 
+## Features
 
-- ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Black](https://github.com/app-generator/django-admin-black) - `Free Version`
-- ✅ `Sections` covered by the design:
-  - ✅ **Admin section** (reserved for superusers)
-  - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
-  - ✅ **All Pages** available in for ordinary users 
-- ✅ `Docker`
-- 🚀 `Deployment` 
-  - `CI/CD` flow via `Render`
+> `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-<br />
+| Free Version                          | [PRO Version](https://appseed.us/product/datta-able-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**     | 
+| ✓ Bootstrap Design                    | ✅ `Private REPO Access`                                             | ✅ **Dedicated Developer**        |
+| ✓ `Docker`                            | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  | ✅ Weekly Sprints                 |
+| ✓ `CI/CD` Flow via Render             | ✅ Deployment Assistance                                             | ✅ Technical SPECS                |
+| ✓ `Free Support                       | -                                                                     | ✅ Documentation                  |
+| -                                     | -                                                                     | ✅ **30 days Delivery Warranty**  |
+| ------------------------------------  | ------------------------------------                                  | ------------------------------------|
+| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-black-dashboard-pro.appseed-srv1.com/) | 🛒 `Order`: **[$1999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
 
 ![Django Admin Black - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/196730732-dda1794b-93ce-48cb-bc5c-182411495512.png)
 
