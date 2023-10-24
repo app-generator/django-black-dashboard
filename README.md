@@ -15,7 +15,7 @@ The product is designed to deliver the best possible user experience with highly
 | Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**     | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
 | ✓ Bootstrap Design                    | ✅ `Private REPO Access`                                             | ✅ **Dedicated Developer**        |
 | ✓ `Docker`                            | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  | ✅ Weekly Sprints                 |
 | ✓ `CI/CD` Flow via Render             | ✅ Deployment Assistance                                             | ✅ Technical SPECS                |
