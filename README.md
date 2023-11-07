@@ -8,7 +8,7 @@ The product is designed to deliver the best possible user experience with highly
 
 ---
 
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `70%Off`
+## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
 
 > `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
  
