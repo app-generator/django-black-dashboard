@@ -6,21 +6,13 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
 - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - `LIVE Demo`
 
----
-
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
-
-> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
- 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
-
 <br /> 
 
 ## Features
 
 > `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-| Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
+| Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | 🚀 Custom - $3,999         |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
 | ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
@@ -30,7 +22,7 @@ The product is designed to deliver the best possible user experience with highly
 | ✓ `Free Support                       | -                                                                     | ✅ Documentation                  |
 | -                                     | -                                                                     | ✅ **30 days Delivery Warranty**  |
 | ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-black-dashboard-pro.appseed-srv1.com/) | 🛒 `Order`: **[$1999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-black-dashboard-pro.appseed-srv1.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
 
 
 ![Django Admin Black - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/196730732-dda1794b-93ce-48cb-bc5c-182411495512.png)
