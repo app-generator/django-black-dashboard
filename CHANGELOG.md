@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.0.15] 2024-03-02
+### Changes
+
+- Deprecate `distutils`
+  - use `str2bool`
+- Update Deps 
+  - `requirements.txt`  
+- Update README: [PRO Version](https://appseed.us/product/black-dashboard-pro/django/), List features
+  - `API`, **Charts** 
+  - **DataTables** (Filters, Export)
+  - **Celery**
+  - **Media Files Manager**
+  - **Extended User Profiles**
+
 ## [1.0.14] 2023-02-14
 ### Changes
 

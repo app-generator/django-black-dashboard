@@ -14,15 +14,19 @@ The product is designed to deliver the best possible user experience with highly
 
 | Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
-| ✓ Bootstrap Design                    | ✅ `Private REPO Access`                                             | ✅ **Team**: PM, Developer, Tester        |
-| ✓ `Docker`                            | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  | ✅ Weekly Sprints                 |
-| ✓ `CI/CD` Flow via Render             | ✅ Deployment Assistance                                             | ✅ Technical SPECS                |
-| ✓ `Free Support                       | -                                                                     | ✅ Documentation                  |
-| -                                     | -                                                                     | ✅ **30 days Delivery Warranty**  |
-| ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-black-dashboard-pro.appseed-srv1.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                          | **Everything in PRO**, plus:         |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1mo Custom Development**       | 
+| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                                              | ✅ **Team**: PM, Developer, Tester  |
+| ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-black-pro.onrender.com/charts/)**                  | ✅ Weekly Sprints                   |
+| ✓ `Docker`                            | ✅ **[DataTables](https://django-black-pro.onrender.com/tables/)** (Filters, Export)   | ✅ Technical SPECS                  |
+| -                                     |✅ **Celery**                                                                            | ✅ Documentation                    |
+| -                                     | ✅ **Media Files Manager**                                                              | ✅ **30 days Delivery Warranty**    |
+| -                                     | ✅ **Extended User Profiles**                                                           |  -                                   |
+| -                                     | ✅ `Private REPO Access`                                                                |  -                                   |
+| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                     |  -                                   |
+| -                                     | ✅ Deployment Assistance                                                                |  -                                   |
+| ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
+| ✓ [LIVE Demo](https://django-material-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-black-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |     
 
 
 ![Django Admin Black - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/196730732-dda1794b-93ce-48cb-bc5c-182411495512.png)
