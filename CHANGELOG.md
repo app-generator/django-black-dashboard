@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.16] 2024-03-05
+### Changes
+
+- Update [Custom Development](https://appseed.us/custom-development/) Section
+  - New Pricing: `$3,999`
+
 ## [1.0.15] 2024-03-02
 ### Changes
 
