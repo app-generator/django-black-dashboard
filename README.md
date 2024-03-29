@@ -24,7 +24,7 @@ The product is designed to deliver the best possible user experience with highly
 | -                                     | ✅ **Extended User Profiles**                                                           |  -                                   |
 | -                                     | ✅ `Private REPO Access`                                                                |  -                                   |
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                     |  -                                   |
-| -                                     | ✅ Deployment Assistance                                                                |  -                                   |
+| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)                           |  -                                   |
 | ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
 | ✓ [LIVE Demo](https://django-material-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-black-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |     
 
