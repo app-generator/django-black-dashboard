@@ -181,10 +181,10 @@ The SCSS/CSS files used to style the Ui are saved in the `static/assets` directo
 In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
 
 ```bash
-$ yarn # install modules
+$ npm # install modules
 $ # # edit variables 
 $ vi static/assets/scss/black-dashboard/custom/_variables.scss 
-$ gulp # SCSS to CSS translation
+$ npm run dev # SCSS to CSS translation
 ```
 
 The `_variables.scss` content defines the `primary` and `secondary` colors: 
