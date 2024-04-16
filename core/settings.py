@@ -52,7 +52,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "django-browser-reload",
+    "django_browser_reload",
 
     "home",
 ]
