@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 export default defineConfig({
   build: {
     target: "modules",
-    outDir: "./static/dist",
+    outDir: "./static/assets/css",
     cssCodeSplit: true,
     minify: true,
     sourcemap: true,
