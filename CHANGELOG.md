@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.17] 2024-04-16
+### Changes
+
+- Use `Vite` for SCSS Compilation
+- Fix Charts on MAIN dashboard
+- Added HOT Reload (templates & static)
+
 ## [1.0.16] 2024-03-05
 ### Changes
 

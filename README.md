@@ -175,7 +175,9 @@ In a similar way, all other files and components can be customized easily.
 
 <br />
 
-## Recompile SCSS  
+## Recompile SCSS (separate terminal)
+
+> Tested with Node `v18.20.0`
 
 The SCSS/CSS files used to style the Ui are saved in the `static/assets` directory. 
 In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
@@ -184,7 +186,8 @@ In order to update the Ui colors (primary, secondary) this procedure needs to be
 $ npm # install modules
 $ # # edit variables 
 $ vi static/assets/scss/black-dashboard/custom/_variables.scss 
-$ npm run dev # SCSS to CSS translation
+$ npm run dev   # SCSS to CSS Development MODE
+$ npm run build # SCSS to CSS Production Build
 ```
 
 The `_variables.scss` content defines the `primary` and `secondary` colors: 
