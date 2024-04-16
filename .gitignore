@@ -2,6 +2,7 @@
 *.DS_Store
 *.egg*
 /dist/
+/static/dist/
 /.idea
 /docs/_build/
 /node_modules/

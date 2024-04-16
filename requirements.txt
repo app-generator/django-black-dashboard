@@ -12,3 +12,6 @@ gunicorn==21.2.0
 
 # psycopg2-binary
 # mysqlclient
+
+# Hot Reload
+django-browser-reload==1.12.1
