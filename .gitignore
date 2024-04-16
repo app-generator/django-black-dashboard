@@ -13,6 +13,6 @@ env
 #src
 *.sqlite*
 
-.env
+#.env
 node_modules
 yarn.lock
