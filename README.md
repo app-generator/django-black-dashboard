@@ -15,18 +15,17 @@ The product is designed to deliver the best possible user experience with highly
 | Free Version                          | [PRO Version](https://appseed.us/product/black-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                          | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1mo Custom Development**       | 
-| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                                              | ✅ **Team**: PM, Developer, Tester  |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1 Week** `Custom Development`  | 
+| ✓ Bootstrap 4, `Black` Design         | ✅ `OAuth` Google, GitHub                                                              | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-black-pro.onrender.com/chart/)**                   | ✅ Weekly Sprints                   |
 | ✓ `Docker`                            | ✅ **[DataTables](https://django-black-pro.onrender.com/tables/)** (Filters, Export)   | ✅ Technical SPECS                  |
-| -                                     |✅ **Celery**                                                                            | ✅ Documentation                    |
+| ✓ `Free Support` (GitHub Issues)      |✅ **Celery**                                                                            | ✅ Documentation                    |
 | -                                     | ✅ **Media Files Manager**                                                              | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                                           |  -                                   |
+| -                                     | ✅ **Extended User Profiles**                                                           | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
 | -                                     | ✅ `Private REPO Access`                                                                |  -                                   |
-| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                     |  -                                   |
-| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)                           |  -                                   |
+| -                                     | ✅ **[Premium Support](https://appseed.us/support/)**                                   |  -                                   |
 | ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
-| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com)  | 🚀 [LIVE Demo](https://django-black-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |     
+| ✓ [LIVE Demo](https://django-black-dashboard.appseed-srv1.com)  | 🚀 [LIVE Demo](https://django-black-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |     
 
 
 ![Django Admin Black - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/196730732-dda1794b-93ce-48cb-bc5c-182411495512.png)
@@ -211,8 +210,8 @@ $black:         #222a42 !default; // EDIT for customization
   - Go to https://dashboard.render.com/blueprints this link.
 - Click `New Blueprint Instance` button.
 - Connect your `repo` which you want to deploy.
-- Fill the `Service Group Name` and click on `Update Existing Resources` button.
-- After that your deployment will start automatically.
+- Fill in the `Service Group Name` and click on `Update Existing Resources` button.
+- After that, your deployment will start automatically.
 
 At this point, the product should be LIVE.
 
