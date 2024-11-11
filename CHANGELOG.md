@@ -5,7 +5,7 @@
 
 - Update RM Links:
   - 👉 [Django Black Dashboard](https://app-generator.dev/docs/products/django/black-dashboard/index.html) - **Complete Documentation**
-  - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - LIVE Demo 
+  - 👉 [Django Black Dashboard](https://app-generator.dev/product/black-dashboard/django/) - Product Page
   - 👉 [Get Support](https://app-generator.dev/ticket/create/) via Email and Discord
 
 ## [1.0.18] 2024-05-18
