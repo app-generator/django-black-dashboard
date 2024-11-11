@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.19] 2024-11-11
+### Changes
+
+- Update RM Links:
+  - 👉 [Django Black Dashboard](https://app-generator.dev/docs/products/django/black-dashboard/index.html) - **Complete Documentation**
+  - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - LIVE Demo 
+  - 👉 [Get Support](https://app-generator.dev/ticket/create/) via Email and Discord
+
 ## [1.0.18] 2024-05-18
 ### Changes
 
