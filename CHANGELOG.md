@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.22] 2024-12-16
+### Changes
+
+- Preselect the design in the Generator:
+  - [Django App Generator - Black Design](https://app-generator.dev/tools/django-generator/black/)
+
 ## [1.0.21] 2024-12-15
 ### Changes
 
