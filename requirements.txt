@@ -3,15 +3,26 @@ django==4.2.9
 python-dotenv==1.0.1
 str2bool==1.1
 
-# UI
+# UI & Admin UI
+django-jazzmin==3.0.1
 django-admin-black==1.0.8
 
+# Tools
+django-debug-toolbar==4.4.6
+djangorestframework==3.15.2
+requests==2.32.3
+pandas==2.2.3
+graphviz==0.20.3
+astor==0.8.1 
+
+# AI
+anthropic==0.34.2
+
 # Deployment
-whitenoise==6.6.0
-gunicorn==21.2.0
+whitenoise==6.7.0
+gunicorn==23.0.0
 
-# psycopg2-binary
-# mysqlclient
-
-# Hot Reload
-django-browser-reload==1.12.1
+# DB
+#psycopg2-binary==2.9.9
+#mysqlclient==2.1.1
+django-dbbackup==4.2.1

@@ -1,11 +1,31 @@
 {% load i18n static admin_black %}
 <ul class="nav">
+
   <li class="{% if 'dashboard' in segment %} active {% endif %}">
     <a href="/">
       <i class="tim-icons icon-chart-pie-36"></i>
       <p>Dashboard</p>
     </a>
   </li>
+  <li class="{% if 'dynamic_dt' in segment %} active {% endif %}">
+    <a href="{% url "dynamic_dt" %}">
+      <i class="tim-icons icon-puzzle-10"></i>
+      <p>Dynamic Tables</p>
+    </a>
+  </li>   
+  <li class="{% if 'dynamic_api' in segment %} active {% endif %}">
+    <a href="{% url "dynamic_api" %}">
+      <i class="tim-icons icon-send"></i>
+      <p>Dynamic API</p>
+    </a>
+  </li>    
+  <li class="{% if 'charts' in segment %} active {% endif %}">
+    <a href="{% url "charts" %}">
+      <i class="tim-icons icon-chart-bar-32"></i>
+      <p>Charts</p>
+    </a>
+  </li>  
+
   {% if not request.user.is_authenticated %}
   <li class="{% if 'pages' in parent %}active{% endif %}">
     <a data-toggle="collapse" href="#pagesExamples">

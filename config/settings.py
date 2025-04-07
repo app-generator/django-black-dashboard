@@ -45,6 +45,7 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
+    'jazzmin',
     'admin_black.apps.AdminBlackConfig',
     "django.contrib.admin",
     "django.contrib.auth",
@@ -54,7 +55,21 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django_browser_reload",
 
-    "home",
+    # Serve UI pages
+    "apps.pages",
+
+    # Dynamic DT
+    "apps.dyn_dt",
+
+    # Dynamic API
+    "apps.dyn_api",
+
+    # Charts
+    "apps.charts",
+
+    # Tooling API-GEN
+    'rest_framework',            # Include DRF           # <-- NEW 
+    'rest_framework.authtoken',  # Include DRF Auth      # <-- NEW   
 ]
 
 MIDDLEWARE = [
@@ -69,7 +84,7 @@ MIDDLEWARE = [
     "django_browser_reload.middleware.BrowserReloadMiddleware",
 ]
 
-ROOT_URLCONF = "core.urls"
+ROOT_URLCONF = "config.urls"
 
 HOME_TEMPLATES = os.path.join(BASE_DIR, 'templates')
 
@@ -89,7 +104,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "core.wsgi.application"
+WSGI_APPLICATION = "config.wsgi.application"
 
 
 # Database
@@ -172,3 +187,24 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 LOGIN_REDIRECT_URL = '/'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+# ### DYNAMIC_DATATB Settings ###
+DYNAMIC_DATATB = {
+    # SLUG -> Import_PATH 
+    'product'  : "apps.pages.models.Product",
+}
+########################################
+
+# Syntax: URI -> Import_PATH
+DYNAMIC_API = {
+    # SLUG -> Import_PATH 
+    'product'  : "apps.pages.models.Product",
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.TokenAuthentication',
+    ],
+}
+########################################

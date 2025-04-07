@@ -1,26 +1,22 @@
 {
-  "name": "appseed-generic",
+  "name": "django-black-dashboard",
   "version": "1.0.0",
-  "description": "Generic tooling by AppSeed",
-  "author": "AppSeed",
-  "keywords": [
-    "css",
-    "sass",
-    "web"
-  ],
-  "homepage": "https://appseed.us",
-  "bugs": {
-    "email": "support@appseed.us"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite build --watch",
-    "build": "vite build"
+    "dev": "vite build --watch --mode development",
+    "build": "vite build --mode production && npm run minify-css",
+    "minify-css": "postcss static/assets/css/*.css --dir static/assets/css --no-map --ext .min.css"
   },
-  "license": "MIT License",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "vite": "^5.2.8"
-  },
-  "dependencies": {
-    "sass": "^1.75.0"
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.0",
+    "sass": "^1.85.1",
+    "vite": "^6.2.0"
   }
 }
