@@ -1,0 +1,38 @@
+{% extends "layouts/base.html" %}
+{% load static %}
+
+{% block title %} Dynamic APIs {% endblock title %}
+
+{% block content %}
+
+<div class="content">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>
+                        Available Routes - defined in <strong>settings.DYNAMIC_API</strong> - Read <a target="" href="https://app-generator.dev/docs/developer-tools/dynamic-api.html">Documentation</a>.
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <ul>
+                        {% for link in routes %}
+                            <li>
+                                <a href="{% url "model_api" link %}">{{ link }}</a>
+                            </li>    
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+{% endblock content %}
+
+
+{% block extra_js %}
+
+<!-- ADD JS Here -->
+
+{% endblock extra_js %}

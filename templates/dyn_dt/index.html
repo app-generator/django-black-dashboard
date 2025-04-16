@@ -1,0 +1,40 @@
+{% extends "layouts/base.html" %}
+{% load static %}
+
+{% block title %} {% if page_title %} page_title {% else %} Dynamic DataTables {% endif %} {% endblock title %} 
+
+{% block content %}
+<!-- [ Main Content ] start -->
+<div class="content">
+    <!-- [ Main Content ] start -->
+    <div class="row">
+        <!-- [ Typography ] start -->
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>
+                        Available Routes - defined in <strong>settings.DYNAMIC_DATATB</strong> - Read <a target="" href="https://app-generator.dev/docs/developer-tools/dynamic-datatables.html">Documentation</a>.
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <ul>
+                        {% for link in routes %}
+                            <li>
+                                <a href="{% url "model_dt" link %}">{{ link }}</a>
+                            </li>    
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+{% endblock content %}
+
+
+{% block extra_js %}
+
+<script src="{% static 'assets/js/plugins/apexcharts.min.js' %}"></script>
+
+{% endblock extra_js %}
