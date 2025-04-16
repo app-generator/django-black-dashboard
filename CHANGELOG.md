@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.25] 2025-04-16
+### Changes
+
+- Update RM Links
+  - [Black Dashboard](https://app-generator.dev/product/black-dashboard/) Design 
+  - [Creative-Tim](https://app-generator.dev/agency/creative-tim/) Agency
+- Update Sidebar
+
 ## [1.0.24] 2025-04-16
 ### Changes
 
