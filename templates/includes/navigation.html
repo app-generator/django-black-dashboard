@@ -71,9 +71,9 @@
                         {% if request.user.is_authenticated %}
                         {% if request.user.is_superuser %}
                         <li class="nav-link"><a href="{% url 'admin:password_change' %}" class="dropdown-item">
-                                Change Password</a></li>
-                        <li class="nav-link"><a href="{% url 'admin:logout' %}" class="nav-item dropdown-item">Log
-                                out</a></li>
+                            Change Password</a></li>
+                        <li class="nav-link"><a href="{% url 'logout' %}" class="nav-item dropdown-item">
+                            Logout</a></li>
                         {% else %}
 
                         <li><a href="{% url 'password_change' %}" class="dropdown-item">

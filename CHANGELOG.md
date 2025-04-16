@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.24] 2025-04-16
+### Changes
+
+- Bump UI Version
+- Added Dynamic Services
+  - Dynamic DT
+  - Dynamic APIs
+  - Charts
+
 ## [1.0.23] 2025-04-01
 ### Changes
 
@@ -77,7 +86,7 @@
   - use `str2bool`
 - Update Deps 
   - `requirements.txt`  
-- Update README: [PRO Version](https://appseed.us/product/black-dashboard-pro/django/), List features
+- Update README: [PRO Version](https://app-generator.dev/product/black-dashboard-pro/django/), List features
   - `API`, **Charts** 
   - **DataTables** (Filters, Export)
   - **Celery**

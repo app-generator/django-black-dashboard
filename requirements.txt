@@ -5,7 +5,7 @@ str2bool==1.1
 
 # UI & Admin UI
 django-jazzmin==3.0.1
-django-admin-black==1.0.8
+django-admin-black==1.0.19
 
 # Tools
 django-debug-toolbar==4.4.6

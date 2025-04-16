@@ -1,32 +1,20 @@
 {% load i18n static admin_black %}
 <ul class="nav">
-
   <li class="{% if 'dashboard' in segment %} active {% endif %}">
     <a href="/">
       <i class="tim-icons icon-chart-pie-36"></i>
       <p>Dashboard</p>
     </a>
   </li>
-  <li class="{% if 'dynamic_dt' in segment %} active {% endif %}">
-    <a href="{% url "dynamic_dt" %}">
-      <i class="tim-icons icon-puzzle-10"></i>
-      <p>Dynamic Tables</p>
-    </a>
-  </li>   
-  <li class="{% if 'dynamic_api' in segment %} active {% endif %}">
-    <a href="{% url "dynamic_api" %}">
-      <i class="tim-icons icon-send"></i>
-      <p>Dynamic API</p>
-    </a>
-  </li>    
-  <li class="{% if 'charts' in segment %} active {% endif %}">
-    <a href="{% url "charts" %}">
-      <i class="tim-icons icon-chart-bar-32"></i>
-      <p>Charts</p>
-    </a>
-  </li>  
 
-  {% if not request.user.is_authenticated %}
+  {% if request.user.is_authenticated %}
+  <li>
+    <a href="{% url 'logout' %}">
+      <i class="tim-icons icon-button-power"></i>
+      <p>Logout</p>
+    </a>
+  </li>
+  {% else %}
   <li class="{% if 'pages' in parent %}active{% endif %}">
     <a data-toggle="collapse" href="#pagesExamples">
       <i class="tim-icons icon-lock-circle"></i>
@@ -52,46 +40,8 @@
       </ul>
     </div>
   </li>
-
-  {% endif %}
-  {% admin_get_menu as app_list %}
-  {% if app_list %}
-  {% for app in app_list %}
-  {% if app.has_perms and not app.pinned %}
-  <li class="">
-    <a data-toggle="collapse" href="#dashboards{{app.app_label}}" aria-expanded="false">
-      <i class="tim-icons {% if app.icon %} {{ app.icon }} {% else %} icon-lock-circle{% endif %}"></i>
-      <p>
-        {{ app.label|slice:15 }}{% if app.label|length > 15 %}..{% endif %}
-        <b class="caret"></b>
-      </p>
-    </a>
-    {% if app.models %}
-    <div
-      class="collapse {% if 'tables-bootstrap-' in segment or app_label == app.label or app.url in request.path|urlencode %} show {% endif %}"
-      id="dashboards{{app.app_label}}">
-      <ul class="nav">
-        {% for model in app.models %}
-        {% if model.url %}
-        <li class="{% if 'bootstrap-tables' in segment or model.url in request.path|urlencode %} active {% endif %}">
-          <a href="{{ model.url }}">
-            <span class="sidebar-mini-icon">{{ model.label|first }}</span>
-            <span class="sidebar-normal">{{ model.label }}</span>
-          </a>
-        </li>
-        {% else %}
-        <li class="">{{ model.label }}</li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-  </li>
-  {% endif %}
-  {% endfor %}
   {% endif %}
 
-  {% if request.user.is_authenticated and not request.user.is_superuser %}
   <li class="{% if 'icons' in segment %} active {% endif %}">
     <a href="{% url 'icons' %}">
       <i class="tim-icons icon-atom"></i>
@@ -134,17 +84,5 @@
       <p>RTL Support</p>
     </a>
   </li>
-  <li class="active-pro">
-    <a href="{% url 'upgrade' %}">
-      <i class="tim-icons icon-spaceship"></i>
-      <p>Upgrade to PRO</p>
-    </a>
-  </li>
-  <li>
-    <a href="{% url 'logout' %}">
-      <i class="tim-icons icon-button-power"></i>
-      <p>Logout</p>
-    </a>
-  </li>
-  {% endif %}
+
 </ul>

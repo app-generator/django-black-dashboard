@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
+from rest_framework.authtoken.views import obtain_auth_token # <-- NEW
 
 urlpatterns = [
     path('', include('apps.pages.urls')),
@@ -23,5 +24,12 @@ urlpatterns = [
     path('charts/', include('apps.charts.urls')),
     path("admin/", admin.site.urls),
     path("", include('admin_black.urls')),
-    path("__reload__/", include("django_browser_reload.urls"))
 ]
+
+# Lazy-load on routing is needed
+# During the first build, API is not yet generated
+try:
+    urlpatterns.append( path("api/"      , include("api.urls"))    )
+    urlpatterns.append( path("login/jwt/", view=obtain_auth_token) )
+except:
+    pass

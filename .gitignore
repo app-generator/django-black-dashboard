@@ -11,7 +11,7 @@ env
 /staticfiles/
 
 #src
-*.sqlite*
+#*.sqlite*
 
 #.env
 node_modules
