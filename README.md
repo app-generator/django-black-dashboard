@@ -1,6 +1,6 @@
 # [Django Black Dashboard](https://app-generator.dev/product/black-dashboard/django/)
 
-Open-source **Django** project crafted on top of **Black Dashboard**, an open-source iconic `Bootstrap` design.
+**Open-source Django Starter** crafted on top of **[Black Dashboard](https://app-generator.dev/product/black-dashboard/)**, an open-source `Bootstrap` UI Kit released by [Creative-Tim](https://app-generator.dev/agency/creative-tim/).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Black Dashboard](https://app-generator.dev/product/black-dashboard/django/) - `Product Page`
@@ -18,7 +18,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features
 
 - Simple, Easy-to-Extend Codebase
-- [Black Dashboard](https://app-generator.dev/docs/templates/bootstrap/black-dashboard.html) Integration 
+- [Black Dashboard](https://app-generator.dev/product/black-dashboard/) Design Integration 
 - [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -42,7 +42,7 @@ The product is designed to deliver the best possible user experience with highly
 > The premium version provides more features, priority on support, and is more often updated - [Live Demo](https://django-black-pro.onrender.com).
 
 - **Simple, Easy-to-Extend** Codebase
-- **Black Dashboard** Design - PRO Version
+- [Black Dashboard](https://app-generator.dev/product/black-dashboard/) PRO Design Integration 
 - Bootstrap 4 CSS
 - **OAuth** - Github
 - **Extended User Profile**
