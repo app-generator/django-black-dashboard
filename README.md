@@ -49,15 +49,25 @@
 
 > The premium version provides more features, priority on support, and is more often updated - [Live Demo](https://django-black-pro.onrender.com).
 
-- **Simple, Easy-to-Extend** Codebase
+- Simple, Easy-to-Extend Codebase
 - [Black Dashboard](https://app-generator.dev/product/black-dashboard/) PRO Design Integration 
-- Bootstrap 4 CSS
-- **OAuth** - Github
-- **Extended User Profile**
-- **API** via DRF 
-- **Charts** via ApexJS 
-- **Celery** (async tasks)
-- **Deployment-Ready** for Render 
+- Bootstrap Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- Session-based Authentication, Password recovery
+- OAuth (GitHub & Google)
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
 
 ![Django Black PRO - Premium Django starter built with Black Dashboard design from Creative-Tim](https://github.com/user-attachments/assets/63c1ea5b-6c8b-4e67-8e07-156c3e06895f)
 
