@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.27] 2025-05-15
+### Changes
+
+- Update RM 
+- Features List
+- PRO Section
+
 ## [1.0.26] 2025-04-18
 ### Changes
 
